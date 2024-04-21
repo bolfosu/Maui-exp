@@ -21,7 +21,7 @@ packages/
 *.suo
 *.userprefs
 *.sln.docstates
-*.b1173dce-7f08-4cf0-bcbe-761ab8318029.vsidx
+*.vs
 
 # Rider
 .idea/
