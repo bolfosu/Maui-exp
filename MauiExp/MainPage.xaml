@@ -4,9 +4,10 @@
              x:Class="MauiExp.MainPage">
 
     <ScrollView>
-        <VerticalStackLayout
+        <StackLayout
             Padding="30,0"
-            Spacing="25">
+            Spacing="25"
+            Orientation="Vertical">
             <Image
                 Source="dotnet_bot.png"
                 HeightRequest="185"
@@ -30,7 +31,7 @@
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Fill" />
-        </VerticalStackLayout>
+        </StackLayout>
     </ScrollView>
 
 </ContentPage>
