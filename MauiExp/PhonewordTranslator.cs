@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace MauiExp
 {
-    using System.Text;
-
+    
     
     public static class PhonewordTranslator
     {
