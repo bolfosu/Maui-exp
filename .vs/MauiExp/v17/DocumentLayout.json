@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D8ED819-EDCF-4772-93B7-1E419D2300EE}|MauiExp\\MauiExp.csproj|c:\\users\\bolfa\\source\\repos\\mauiexp\\mauiexp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D8ED819-EDCF-4772-93B7-1E419D2300EE}|MauiExp\\MauiExp.csproj|solutionrelative:mauiexp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D8ED819-EDCF-4772-93B7-1E419D2300EE}|MauiExp\\MauiExp.csproj|c:\\users\\bolfa\\source\\repos\\mauiexp\\mauiexp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D8ED819-EDCF-4772-93B7-1E419D2300EE}|MauiExp\\MauiExp.csproj|solutionrelative:mauiexp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,46 +34,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "MauiExp\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "MauiExp\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-26T22:39:59.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PhonewordTranslator.cs",
               "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\PhonewordTranslator.cs",
               "RelativeDocumentMoniker": "MauiExp\\PhonewordTranslator.cs",
-              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\PhonewordTranslator.cs*",
-              "RelativeToolTip": "MauiExp\\PhonewordTranslator.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\PhonewordTranslator.cs",
+              "RelativeToolTip": "MauiExp\\PhonewordTranslator.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T22:09:06.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiExp\\MainPage.xaml",
               "ToolTip": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\MainPage.xaml",
               "RelativeToolTip": "MauiExp\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-26T21:46:45.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MauiExp\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\MainPage.xaml.cs*",
-              "RelativeToolTip": "MauiExp\\MainPage.xaml.cs*",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowA4AAAAmAAAA",
+              "ToolTip": "C:\\Users\\bolfa\\source\\repos\\MauiExp\\MauiExp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiExp\\MainPage.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAzwDIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T21:46:38.831Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
